@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931477182869",
+    "firebase_url": "https://warehouse-document.firebaseio.com",
+    "project_id": "warehouse-document",
+    "storage_bucket": "warehouse-document.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931477182869:android:0cb53e083eab98af057e9c",
+        "android_client_info": {
+          "package_name": "com.project.autopay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931477182869-gof42s0pco7udkqrla70scp61uvj6tgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGu7ZfkYpR4ObfEpT-EJ0FjvU7NdV_RqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931477182869-gof42s0pco7udkqrla70scp61uvj6tgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
